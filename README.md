@@ -1,135 +1,18 @@
-<div align="center">
+# 💫 About Me:
+🎓 B.Tech CSE (AI & ML) student<br>💻 Learning Python, AI/ML & Full-Stack Development<br>🚀 Building projects and improving my problem-solving skills<br>🔧 Interested in automation, AI, and software development<br>📚 Currently focused on Python & real-world projects<br>🌱 Always learning, building, and experimenting
 
-# 🌟 Subhro Mohanta
 
-### Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sudip7488) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sudip Mondal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayanmonda278@gmail.com) 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future+with+Code+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Explorer+%F0%9F%A4%96;Cloud+Technology+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=imSubhro&label=Profile%20Views&color=3B82F6&style=for-the-badge)](https://github.com/imSubhro)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```typescript
-const subhro = {
-    location: "📍 Kolkata, India",
-    education: "🎓 B.Tech in Computer Science & Engineering",
-    institution: "Bengal Institute of Technology",
-    currentFocus: ["AI & Machine Learning", "Full-Stack Development", "Cloud Technologies"],
-    interests: ["Cricket 🏏", "Travel ✈️", "Food 🍕", "Tech Innovation 💡"],
-    lifePhilosophy: "Code. Learn. Innovate. Repeat. 🔄"
-};
-```
-
-<details>
-<summary>🎯 <b>What I'm Up To</b></summary>
-<br>
-
-- 🔭 **Currently Exploring:** Deep Learning & Neural Networks
-- 🌱 **Learning:** Advanced MERN Stack, AWS, Docker & Kubernetes
-- 💼 **Working On:** Building scalable web applications with modern tech stacks
-- 🎯 **2026 Goals:** Contribute to major open-source projects & build AI-powered solutions
-- 💬 **Ask Me About:** Web Development, AI/ML, Cricket, or anything tech!
-- ⚡ **Fun Fact:** I debug code faster when listening to music 🎵
-
-</details>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sayanmonda278-boop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sayanmonda278-boop&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayanmonda278-boop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sayanmonda278-boop&icon=0&color=4)](https://visitcount.itsvg.in)
 
-# 🚀 Tech Arsenal
-
-## 🧠 Languages  
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,js,php,html,css&perline=12)
-
-## ⚛️ Frameworks / Libraries   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,redux,tailwind,bootstrap,nodejs,expressjs,flask,fastapi&perline=12)
-
-## 🗄️ Databases & ORMs  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,prisma,mysql,sqlite,redis,supabase&perline=12)
-
-## 🤖 AI/ML  
-![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas&perline=12)
-
-## ⚙️ DevOps / Cloud 
-![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,jenkins,kubernetes,helm,argocd,grafana,prometheus,terraform,nginx,cloudflare,linux,bash,aws,vercel,render&perline=12)
-
-## 🎨 Tools  
-![Design](https://go-skill-icons.vercel.app/api/icons?i=npm,git,wsl,vite,sentry,postman,figma,canva&perline=12)
-
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSubhro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imSubhro&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imSubhro&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph"/>
-</div>
-
----
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhro-mohanta)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/subhro_vk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/just.subhro)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhromohanta16@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mohanta_subhro04)
-
-</div>
-
----
-
-## 🎮 Code in Action
-
-<div align="center">
-
-```diff
-@@                    SYSTEM STATUS                     @@
-+ ✓ Coffee Level: ████████████████░░ 85%
-+ ✓ Code Quality: ███████████████░░░ 92%
-+ ✓ Bug Fixes:    ████████████░░░░░░ 78%
-- ✗ Sleep Hours:  ███░░░░░░░░░░░░░░░ 15%
-! ⚠ Deadline Stress: ████████████████████ 100%
-# 🚀 Deployment Status: READY TO LAUNCH
-```
-
-### 🔥 Current Streak: Turning Coffee into Code Since 2020
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=🚀%20Building%20The%20Future&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imSubhro/imSubhro/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imSubhro/imSubhro/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imSubhro/imSubhro/output/github-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**⭐ From [imSubhro](https://github.com/imSubhro) with ❤️**
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
