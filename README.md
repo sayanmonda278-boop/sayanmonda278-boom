@@ -1,4 +1,42 @@
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧑‍💻 Coding Journey
+
+```diff
+@@                    SYSTEM STATUS                     @@
+
++ ✓ Learning:        ACTIVE
++ ✓ Python:          IN PROGRESS
++ ✓ AI/ML:           EXPLORING
++ ✓ Projects:        BUILDING
++ ✓ GitHub:          GROWING
++ ✓ Open Source:     COMING SOON
+
+! ⚠ Debugging:       ALWAYS
+
+# 🚀 Status: BUILDING THE FUTURE
+```
+
+</td>
+    <td width="50%" valign="top" align="center">
+
+### 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudipmondal999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipmondal999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipmondal999&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" />
+
+</td>
+  </tr>
+</table>
+
+---
+
+---<div align="center">
 
 # 🌟 Sudip Mondal
 
@@ -7,8 +45,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Building+My+Future+with+Code+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;AI%2FML+Explorer+%F0%9F%A4%96;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sudipmondal999\&label=Profile%20Views\&color=3B82F6\&style=for-the-badge)](https://github.com/sudipmondal999)
-
-[![GitHub](https://img.shields.io/badge/GitHub-sudipmondal999-181717?style=for-the-badge\&logo=github)](https://github.com/sudipmondal999)
 
 </div>
 
@@ -23,20 +59,7 @@ sudip = {
     "education": "🎓 B.Tech in Computer Science & Engineering (AI & ML)",
     "institution": "Bengal Institute of Technology",
     "university": "MAKAUT, West Bengal",
-    "focus": [
-        "Python",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full-Stack Development"
-    ],
-    "interests": [
-        "AI/ML 🤖",
-        "Web Development 💻",
-        "Automation ⚙️",
-        "IoT 🔌",
-        "Open Source 🌐"
-    ],
-    "goal": "Build useful technology and keep improving every day 🚀",
+     "Build useful technology and keep improving every day 🚀",
     "philosophy": "Learn. Build. Fail. Improve. Repeat. 🔄"
 }
 ```
@@ -175,15 +198,12 @@ Cloud Technologies     ████████░░░░░░░░░░░
 
 ---
 
-# 🐍 Contribution Snake
+<!-- Snake Game Repo View -->
 
 <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudipmondal999/sudipmondal999/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudipmondal999/sudipmondal999/output/github-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sudipmondal999/sudipmondal999/output/github-snake.svg">
-</picture>
 
 </div>
 
@@ -223,6 +243,41 @@ Cloud Technologies     ████████░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=🚀%20Keep%20Building&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
 
 ### 💭 "The best way to learn programming is to build."
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧑‍💻 Coding Journey
+
+```diff
+@@                    SYSTEM STATUS                     @@
+
++ ✓ Learning:        ACTIVE
++ ✓ Python:          IN PROGRESS
++ ✓ AI/ML:           EXPLORING
++ ✓ Projects:        BUILDING
++ ✓ GitHub:          GROWING
++ ✓ Open Source:     COMING SOON
+
+! ⚠ Debugging:       ALWAYS
+
+# 🚀 Status: BUILDING THE FUTURE
+```
+
+</td>
+    <td width="50%" valign="top" align="center">
+
+### 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSubhro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imSubhro&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats"/>
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 **⭐ From Sudip Mondal with ❤️**
 
